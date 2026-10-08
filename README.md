@@ -6,7 +6,7 @@ I reverse-engineered the firmware of a Nokia 110 4G and built a native AI chat a
 
 [![Watch the Nokia AI demo](https://img.youtube.com/vi/i5Ce53QkMkU/hqdefault.jpg)](https://www.youtube.com/watch?v=i5Ce53QkMkU)
 
-Click the image to watch the demo on YouTube.
+**Click the image to watch the demo on YouTube.**
 
 ## What it does
 
@@ -52,3 +52,7 @@ Tried to replace calculator layout with text input box. Stock Calculator drawing
 
 The next goal was to let the AI use real phone functions. As the phone memory is only 48MB, normal agent code wont fit, so created a very simple custom agent, used smaller builds, compressed the payload and reused buffers. Then tested each feature mentioned above one after other.
 
+
+## Source code
+
+I haven't uploaded the code because sensitive data is scattered across the project.
