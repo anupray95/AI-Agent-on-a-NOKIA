@@ -56,3 +56,8 @@ The next goal was to let the AI use real phone functions. As the phone memory is
 ## Source code
 
 I haven't uploaded the code because sensitive data is scattered across the project.
+
+
+# Please Follow me
+LinkedIn: https://www.linkedin.com/in/anup-ray-dev/
+Twitter: https://x.com/asubidha7
